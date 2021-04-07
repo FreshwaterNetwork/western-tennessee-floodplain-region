@@ -1,8 +1,8 @@
 {
   "plugins": [
 	 {
-  	      "repo": "western-tennessee",
-  	      "name": "western-tennessee",
+  	      "repo": "western-tennessee-floodplain",
+  	      "name": "western-tennessee-floodplain",
   	      "org": "FreshwaterNetwork"
     }
   ]
