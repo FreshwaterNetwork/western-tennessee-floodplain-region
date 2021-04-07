@@ -1,11 +1,11 @@
 {
     "googleAnalyticsPropertyId": "28810260-22",
 	"googleUrlShortenerApiKey": "AIzaSyCGRjZtPUN9LG1wG83JGUvEqHimxYjC510",
-	"titleMain": { "text": "Freshwater Network – Lower Meramec Floodplain Tool", "url": "http://freshwaternetwork.org/"},
-	"titleDetail": { "text": "Mississippi River Basin", "url": "https://www.nature.org/ourinitiatives/regions/northamerica/north-america-water-mississippi-river.xml/"},
+	"titleMain": { "text": "Freshwater Network – Western Tennessee Floodplain Tool", "url": "http://freshwaternetwork.org/"},
+	"titleDetail": { "text": "Wesetern Tennessee", "url": "https://www.nature.org/ourinitiatives/regions/northamerica/north-america-water-mississippi-river.xml/"},
 	"singlePluginMode": {
         "active": true,
-        "pluginFolderName": "floodplain-explorer"
+        "pluginFolderName": "western-tennessee"
     },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "https://www.nature.org/ourinitiatives/urgentissues/water/index.htm?intc=nature.tnav.ourwork" },
@@ -28,7 +28,7 @@
         { "name": "Imagery"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" }
     ],
     "pluginOrder": [
-        "floodplain-explorer"
+        "western-tennessee"
     ],
     "print": {
        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
